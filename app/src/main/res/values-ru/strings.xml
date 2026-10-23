@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Случайный фильм</string>
+    <string name="press_button_hint">Нажмите на кнопку, чтобы выбрать фильм</string>
+    <string name="btn_next_movie">Выбрать фильм</string>
+    <string name="btn_reset">Сбросить</string>
+    <string name="no_more_movies">Фильмы закончились! Нажмите «Сбросить», чтобы начать заново.</string>
+
+    <string-array name="movies_array">
+        <item>Начало (2010)</item>
+        <item>Матрица (1999)</item>
+        <item>Интерстеллар (2014)</item>
+        <item>Побег из Шоушенка (1994)</item>
+        <item>Криминальное чтиво (1994)</item>
+        <item>Тёмный рыцарь (2008)</item>
+    </string-array>
+</resources>

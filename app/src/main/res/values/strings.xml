@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Random Movie</string>
+    <string name="press_button_hint">Press the button to pick a movie</string>
+    <string name="btn_next_movie">Pick a Movie</string>
+    <string name="btn_reset">Reset List</string>
+    <string name="no_more_movies">No more movies left! Press Reset to start over.</string>
+
+    <string-array name="movies_array">
+        <item>Inception (2010)</item>
+        <item>The Matrix (1999)</item>
+        <item>Interstellar (2014)</item>
+        <item>The Shawshank Redemption (1994)</item>
+        <item>Pulp Fiction (1994)</item>
+        <item>The Dark Knight (2008)</item>
+    </string-array>
+</resources>
